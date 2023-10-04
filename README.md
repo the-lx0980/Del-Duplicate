@@ -1,17 +1,3 @@
-<div id="top"></div>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GPL3 License][license-shield]][license-url]
-
-
-<br />
-<div align="center">
-  <a href="https://github.com/OxMohsen/uniquify-bot">
-    <img src="https://img.apksum.com/4c/com.duplicate.files.remover.duplicatefinderfiles/1.0/icon.png" alt="Logo" width="80" height="80">
-  </a>
 
 <h3 align="center">uniquify bot</h3>
 
@@ -101,46 +87,3 @@ if you using heroku, you can run the bot with the following steps.
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-## License
-
-Distributed under the GPLv3 License. See `LICENSE` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-## Contact
-
-Your Name - [@OxMohsen](https://twitter.com/OxMohsen) - oxmohsen@oxmohsen.ir
-
-Project Link: [https://github.com/OxMohsen/uniquify-bot](https://github.com/OxMohsen/uniquify-bot)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-[contributors-shield]: https://img.shields.io/github/contributors/OxMohsen/uniquify-bot.svg?style=for-the-badge
-[contributors-url]: https://github.com/OxMohsen/uniquify-bot/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/OxMohsen/uniquify-bot.svg?style=for-the-badge
-[forks-url]: https://github.com/OxMohsen/uniquify-bot/network/members
-[stars-shield]: https://img.shields.io/github/stars/OxMohsen/uniquify-bot.svg?style=for-the-badge
-[stars-url]: https://github.com/OxMohsen/uniquify-bot/stargazers
-[issues-shield]: https://img.shields.io/github/issues/OxMohsen/uniquify-bot.svg?style=for-the-badge
-[issues-url]: https://github.com/OxMohsen/uniquify-bot/issues
-[license-shield]: https://img.shields.io/github/license/OxMohsen/uniquify-bot.svg?style=for-the-badge
-[license-url]: https://github.com/OxMohsen/uniquify-bot/blob/main/LICENSE
