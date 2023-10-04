@@ -7,7 +7,7 @@ from config import LOGGER, Config
 class User(Client):
     def __init__(self):
         super().__init__(
-            Config.TG_USER_SESSION_NAME,
+            'deluserbot',
             api_hash=Config.API_HASH,
             api_id=Config.APP_ID,
             workers=8,
